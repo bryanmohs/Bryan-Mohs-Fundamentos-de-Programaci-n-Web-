@@ -1,0 +1,86 @@
+GRUPO #1
+TEMA:Tecnologías Web JS (Node JS-React-Angular-MongoDB)
+INTEGRANTES:
+ARIAS MUÑOZ, JOSE PABLO
+ARROYO ROJAS, ANTHONY JORDAN
+--------------------------------------------------------------------------------
+GRUPO #2
+TEMA: Tipos de funciones extras JS (fechas/hora-flecha-3 adicionales)
+INTEGRANTES:
+BEITA MOHS, BRYAN DAVID
+BERMUDEZ ESQUIVEL, KEVIN
+--------------------------------------------------------------------------------
+GRUPO #3
+TEMA: Ciclos Java Script (FOR-FOR EACH-WHILE-SWITCH)
+INTEGRANTES:
+CECILIANO BONILLA, VALERIA NICOLE
+CORDERO ARTAVIA, STEVEN
+--------------------------------------------------------------------------------
+GRUPO #4
+TEMA: Arreglos Unidimensionales y Multibidimensionales
+INTEGRANTES:
+ESQUIVEL GUZMAN, ANTONY FRANCISCO
+GUTIERREZ CALVO, ARIEL DE JESUS
+--------------------------------------------------------------------------------
+GRUPO #5
+TEMA: Librerías I Java Script 
+https://michalsnik.github.io/aos/
+https://vincentgarreau.com/particles.js/
+INTEGRANTES:
+JIMENEZ CORDERO, JOSCHUA STEVEN
+MARADIAGA CALVO, ANDRES ESTEBAN
+--------------------------------------------------------------------------------
+GRUPO #6
+TEMA: Librerías II Java Script
+https://createjs.com/
+https://revealjs.com/
+INTEGRANTES:
+MEDRANO DE CASTILLA, IAN
+MONTENEGRO CESIA CHANTAL
+--------------------------------------------------------------------------------
+GRUPO #7
+TEMA: Librerías III Java Script
+https://jquery.com/
+https://alvarotrigo.com/fullPage/
+INTEGRANTES:
+QUESADA FLORES, NANCY PRISCILLA
+RETANA ARTAVIA, JESUS ALBERTO
+--------------------------------------------------------------------------------
+GRUPO #8
+TEMA: API Google Maps Java Script (geolocalización)
+INTEGRANTES:
+ROJAS SANCHEZ, NICOLE FRANCINIE
+SEGURA SOTO, WALTER JOSUE
+--------------------------------------------------------------------------------
+GRUPO #9
+TEMA: ScrollReveal JS 
+https://scrollrevealjs.org/api/reveal.html
+INTEGRANTES:
+SIBAJA SANCHEZ, EDSON
+TORRES ROMAN, KEVIN GERARDO
+--------------------------------------------------------------------------------
+Grupo #10
+TEMA: Control deslizante táctil
+https://swiperjs.com/
+INTEGRANTES:
+ZUÑIGA GAMBOA, SOFIA
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
