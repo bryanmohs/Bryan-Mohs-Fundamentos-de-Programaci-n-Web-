@@ -1,0 +1,49 @@
+p {
+    font-size: 18px;
+}
+
+header {
+    background-color: #0063be;
+}
+
+.usuario {
+    width: 70%;
+}
+
+a {
+    font-weight: bold;
+    color: #0063be;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #0063be;
+    text-decoration: underline;
+}
+
+input:checked {
+    background-color: #0063be !important;
+}
+
+input,
+select {
+    cursor: pointer;
+}
+
+
+/*estilo que permite mostrar los campos validados con un borde de color rojo*/
+
+.error {
+    border: red solid 1px;
+}
+
+button {
+    background-color: #0063be !important;
+    width: 100%;
+}
+
+#forgot-pass {
+    font-weight: bold;
+    text-align: end;
+    font-size: 12px;
+}
